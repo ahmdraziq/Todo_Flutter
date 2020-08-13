@@ -1,6 +1,6 @@
-# todo_app
+# Todo flutter app
 
-A new Flutter project.
+Playing with python flask
 
 ## Getting Started
 
